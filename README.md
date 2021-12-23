@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/himannetwork/azuredemo/_apis/build/status/himannetwork.pipelines-java?branchName=master)](https://dev.azure.com/himannetwork/azuredemo/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
